@@ -1,10 +1,6 @@
 # Hi 👋, I'm Marshall.codes
 
-### AI/ML Engineer and Quantum Vomputing Enthusiast 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marshallcodes&label=Profile views&color=0e75b6&style=flat" alt="marshallcodes" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marshallcodes" alt="marshallcodes" /></a> </p>
+### AI/ML Engineer and Quantum Computing Enthusiast 
 
 - 🔭 I'm currently working on **AI FILE CLASSIFIER**
 
