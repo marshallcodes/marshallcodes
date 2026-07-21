@@ -122,8 +122,8 @@ I engineer systems with uncompromising discipline and a refusal to cut corners. 
 ## 📊 Telemetry
 
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api?username=marshallcodes&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70A5FD&icon_color=70A5FD" alt="GitHub Stats" />
+  <a href="https://github.com/marshallcodes">
+    <img src="https://github-stats-extended.vercel.app/api?username=marshallcodes&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70A5FD&icon_color=70A5FD" alt="GitHub Stats" />
   </a>
 </div>
 
@@ -134,7 +134,7 @@ I engineer systems with uncompromising discipline and a refusal to cut corners. 
 I am actively looking to connect with elite engineering teams, CTOs, and developers who share a relentless drive for building high-performance systems.
 
 If you want to talk about .NET architecture, Blockchain integration, AI, or Azure infrastructure:
-**[Initiate Contact via Email](mailto:YOUR_EMAIL@gmail.com)**.
+**[Initiate Contact via Email](mailto:marshallshaddy6@gmail.com)**.
 
 <div align="center">
   <br>
