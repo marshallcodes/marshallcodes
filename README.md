@@ -1,36 +1,144 @@
-# Hi 👋, I'm Marshall.codes
+<div align="center">
 
-### AI/ML Engineer and Quantum Computing Enthusiast 
+<h1 align="center">Marshallcodes</h1>
+<h3 align="center">Software Architect | AI Engineer | Blockchain Developer</h3>
 
-- 🔭 I'm currently working on **AI FILE CLASSIFIER**
-
-- 🌱 I'm currently learning **C# and Machine Learning**
-
-- 👯 I'm looking to collaborate on **Open source Linux/ML related projects**
-
-- 💬 Ask me about **.NET Ecosystem, Machine Learning and Quantum computing**
-
-- 📫 How to reach me **marshallshaddy6@gmail.com**
-
-- 📝 I regularly write articles on **[https://linktr.ee/marshall.codes](https://linktr.ee/marshall.codes)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/marshallcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="marshallcodes" height="30" width="40" /></a>
-<a href="https://dev.to/marshallcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="marshallcodes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Marshallcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Marshallcodes" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/27743511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27743511" height="30" width="40" /></a>
-<a href="https://kaggle.com/marshallcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="marshallcode" height="30" width="40" /></a>
-<a href="https://fb.com/Marshallcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Marshallcodes" height="30" width="40" /></a>
-<a href="https://instagram.com/marshallcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marshallcodes" height="30" width="40" /></a>
-<a href="https://twitter.com/marshallcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marshallcodes" height="30" width="40" /></a>
-<a href="https://medium.com/marshall.codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="marshall.codes" height="30" width="40" /></a>
-<a href="https://youtube.com/marshallcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="marshallcodes" height="30" width="40" /></a>
+<p align="center">
+  <i>Stoic in the face of complex problems, unyielding in discipline, relentless in the pursuit of engineering perfection.</i>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/amplify" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cypress" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cypress" alt="cypress" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gatsby" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gatsby" alt="gatsby" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/grafana" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/heroku" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/qt" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=qt" alt="qt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/selenium" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a></p>
+<p align="center">
+  <a href="https://github.com/marshallcodes">
+    <img src="https://img.shields.io/github/followers/marshallcodes?label=Followers&style=for-the-badge&color=0d1117&logoColor=70A5FD&labelColor=0d1117&logo=github" alt="Followers"/>
+  </a>
+  <a href="mailto:marshallshaddy6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=minutemailer&logoColor=70A5FD&labelColor=0d1117" alt="Email"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshallcodes&layout=donut" alt="marshallcodes" /></p>
+[![Status](https://img.shields.io/badge/Status-Building_The_Future-10B981?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117)](https://github.com/marshallcodes)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marshallcodes&show_icons=true&locale=en" alt="marshallcodes" /></p>
+<br>
+
+</div>
+
+## ⚔️ Engineering Discipline
+
+I engineer systems with uncompromising discipline and a refusal to cut corners. Code requires rigorous testing and deliberate architecture to scale. The objective is simple: forge resilient, high-performance software that operates flawlessly under pressure. 
+
+**The standard is absolute excellence.**
+
+<br>
+
+<div align="center">
+  <i>Deeply exploring the intersections of:</i><br>
+  <img src="https://img.shields.io/badge/🔬_Quantum_Computing-121D33?style=for-the-badge" alt="Quantum Computing" />
+  <img src="https://img.shields.io/badge/🧠_Artificial_Intelligence-FF6F00?style=for-the-badge" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/🧬_Bioinformatics-0089D6?style=for-the-badge" alt="Bioinformatics" />
+</div>
+
+---
+
+## 🛠️ Arsenal & Expertise
+
+<div align="center">
+
+### 🧰 Programming Languages
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+> *C# (Enterprise Engine) • Python (AI/Data Engine) • SQL (Architecture) • C++ (Systems & Competitive Programming)*
+
+### 🧠 Role-Based Skills
+![Software Architect](https://img.shields.io/badge/Software_Architect-000000?style=for-the-badge&logo=architecture&logoColor=white)
+![AI Engineer](https://img.shields.io/badge/AI_Engineer-FF6F00?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Blockchain Developer](https://img.shields.io/badge/Blockchain_Developer-121D33?style=for-the-badge&logo=ethereum&logoColor=white)
+
+> *Leveraging deep .NET ecosystem integration for Web3 and decentralized technologies.*
+
+### 🪟 Frameworks
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET Aspire](https://img.shields.io/badge/.NET_Aspire-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+<br>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAEE?style=for-the-badge&logo=scipy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### ⚙️ Infrastructure & Technologies
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔮 PARE: Predictive Academic Resource Engine</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/.NET_9-5C2D91?style=flat-square&logo=.net&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_AI-FF6F00?style=flat-square&logo=google-gemini&logoColor=white" />
+      </p>
+      <p>Engineered a full-stack educational analytics platform featuring a .NET 9 Web API backend and a Vite/React TypeScript frontend. Designed a resilient data layer using Supabase (PostgreSQL) to handle course management and resource collections with complex multi-table relationships and soft-deletion strategies.</p>
+      <ul>
+        <li><b>AI Integration:</b> Integrated the Google Gemini API to parse complex syllabus documents, extract milestones, and generate predictive "friction" models that forecast academic bottlenecks.</li>
+        <li><b>Data Visualization:</b> Built a high-performance UI using Redux Toolkit and Recharts to map student trajectories against predicted difficulty loads.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⛓️ iEPS: Decentralized Electronic Prescription System</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/.NET_8-5C2D91?style=flat-square&logo=.net&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=ethereum&logoColor=white" />
+        <img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white" />
+      </p>
+      <p>Architected a secure, blockchain-based prototype for issuing and dispensing medical prescriptions. Engineered cryptographic validation and simulated smart contract logic to eliminate prescription fraud and "doctor shopping" while enforcing strict data privacy.</p>
+      <ul>
+        <li><b>Features:</b> ECDSA cryptographic identity verification, Role-Based Access Control (RBAC), on-chain transaction hashing, AES-256 encryption, and GDPR-compliant "Crypto-shredding".</li>
+        <li><b>Stack:</b> Next.js frontend and a .NET 8 Web API backend, utilizing IPFS for decentralized off-chain storage, deployed via Vercel and Azure.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Telemetry
+
+<div align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://github-readme-stats.vercel.app/api?username=marshallcodes&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70A5FD&icon_color=70A5FD" alt="GitHub Stats" />
+  </a>
+</div>
+
+---
+
+## 🛰️ Current Trajectory & Collaboration
+
+I am actively looking to connect with elite engineering teams, CTOs, and developers who share a relentless drive for building high-performance systems.
+
+If you want to talk about .NET architecture, Blockchain integration, AI, or Azure infrastructure:
+**[Initiate Contact via Email](mailto:YOUR_EMAIL@gmail.com)**.
+
+<div align="center">
+  <br>
+  <i>"One must imagine a God Contendant happy."</i>
+  <br><br>
+  <b>🪨 The ascent never stops. Master the mind, master the body, master the code.</b>
+</div>
