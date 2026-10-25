@@ -123,7 +123,7 @@ I engineer systems with uncompromising discipline and a refusal to cut corners. 
 
 <div align="center">
   <a href="https://github.com/marshallcodes">
-    <img src="https://github-stats-extended.vercel.app/api?username=marshallcodes&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70A5FD&icon_color=70A5FD" alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api/?username=marshallcodes&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Marshall%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" />
   </a>
 </div>
 
